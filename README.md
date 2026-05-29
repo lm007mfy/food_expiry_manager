@@ -1,4 +1,4 @@
-# -food_expiry_manager
+# food_expiry_manager
  一款基于 Flutter + SQLite 的本地食品保质期管理 Android 应用，支持多记录追踪、商家管理、临期/过期提醒、数据导出备份，帮助用户全面管理食品保质期。
 
 ---
